@@ -21,7 +21,7 @@ except:
 
 else:
     #if everything is okey the program print the value
-    print(total_amount)
+    print(f'{total_amount:,.4f}')
 
 
 
